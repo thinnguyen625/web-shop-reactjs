@@ -1,1 +1,0 @@
-Host: https://web-shop-reactjs.herokuapp.com/
